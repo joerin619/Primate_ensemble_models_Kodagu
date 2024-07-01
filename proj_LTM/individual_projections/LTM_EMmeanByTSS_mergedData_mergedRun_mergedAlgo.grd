@@ -1,0 +1,20 @@
+[general]
+[data]
+datatype=INT2S
+nodatavalue=-9999
+byteorder=little
+nbands=1
+minvalue=4
+maxvalue=937
+categorical=FALSE
+[description]
+layername=LTM_EMmeanByTSS_mergedData_mergedRun_mergedAlgo
+[georeference]
+nrows=136
+ncols=159
+xmin=75.1001962680000048
+ymin=11.6748230613270003
+xmax=76.4193694490000155
+ymax=12.8031724488490166
+projection=+proj=longlat +datum=WGS84 +no_defs
+wkt=GEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]]
